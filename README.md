@@ -1,8 +1,11 @@
-# About Me
+# about_me.c
 
-- 👋 Hi, I’m Benjamin Roberts
-- 👀 I’m interested in VR/AR applications and Game Development
-- 🌱 I’m currently studying computer science at the University of Maryland
+```C
+    struct ben_roberts{
+        char name[50];
+    };
+
+```
 
 <!---
 SenorBoberts/SenorBoberts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
