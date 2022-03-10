@@ -6,6 +6,8 @@
 	</a>
 </div>
 
+<br>
+
 - 👋 Hi, I’m Benjamin Roberts
 - 👀 I’m interested in VR/AR applications and Game Development
 - 🌱 I’m currently studying computer science at the University of Maryland
