@@ -5,6 +5,8 @@
 - 👀 I’m interested in VR/AR applications and Game Development
 - 🌱 I’m currently studying computer science at the University of Maryland
 
+<!--- Lang Stats --->
+### Current Language Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenorBoberts&exclude_repo=nvim-config&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
