@@ -6,7 +6,7 @@
 
 <!--- Lang Stats --->
 ### Current Language Statistics:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenorBoberts&exclude_repo=nvim-config&layout=compact&theme=github_dark&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenorBoberts&exclude_repo=nvim-config&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 *note: This only displays languages used in public repositories*
 <br>
