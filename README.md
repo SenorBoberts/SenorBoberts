@@ -3,6 +3,7 @@
 - 👋 Hi, I’m Benjamin Roberts
 - 👀 I’m interested in VR/AR applications and Game Development
 - 🌱 I’m currently studying computer science at the University of Maryland
+- 🐧 Arch Linux
 
 <!--- Lang Stats --->
 ### Current Language Statistics:
