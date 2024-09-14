@@ -1,7 +1,7 @@
 # About Me
 
 - 👋 Hi, I’m Benjamin Roberts
-- 🌱 I’m currently studying computer science at the University of Maryland
+- 🌱 I have a bachelors degree in computer science from the University of Maryland
 - 🐧 Arch Linux
 
 <!--- Lang Stats --->
